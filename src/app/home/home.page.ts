@@ -15,10 +15,6 @@ export interface Track {
 export class HomePage {
   playlist: Track[] = [
     {
-      name: 'Standing in the Gap',
-      path: './assets/mp3/060312p.mp3'
-    },
-    {
       name: 'Once Saved Always Saved',
       path: './assets/mp3/022314a.mp3'
     },
