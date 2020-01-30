@@ -1,5 +1,7 @@
 {
   "name": "pocket-hard-preaching",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
